@@ -1,0 +1,1 @@
+shared e2e-lock: legacy suites treat this lock as held (#8620)
