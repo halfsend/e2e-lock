@@ -1,2 +1,1 @@
-# e2e-lock
-E2E test lock — do not delete manually
+ed7f3628-ca0f-44a9-82dc-859f373e599b
